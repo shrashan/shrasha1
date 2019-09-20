@@ -48,7 +48,7 @@ public class Constructorss {
 		System.out.println("The memory of the robot is "+robo2.getMeemory());
 		
 		System.out.println("done some changes from ecllipse after importing from github and pushing the changes to github");
-		
+		System.out.println("only changes in branch");
 		
 		
 	}
