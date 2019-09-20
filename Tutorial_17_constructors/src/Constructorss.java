@@ -49,6 +49,7 @@ public class Constructorss {
 		
 		System.out.println("done some changes from ecllipse after importing from github and pushing the changes to github");
 		System.out.println("only changes in branch");
+		System.out.println("only edit in new branch 0.0");
 		
 		
 	}
