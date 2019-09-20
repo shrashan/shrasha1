@@ -17,6 +17,7 @@ public class Modifiers {
 		System.out.println("the print of public name from main "+plant1.name);
 		
 System.out.println("The protected from the same  package bur from main is "+plant1.size);
+System.out.println("I have edited from github");
 	
 	
 
